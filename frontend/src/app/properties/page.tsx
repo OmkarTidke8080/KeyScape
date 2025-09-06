@@ -14,7 +14,10 @@ export default function FeaturedProjects() {
   const loadMore = () => setVisible((prev) => prev + 6);
 
   return (
-    <section className="bg-gradient-to-br from-slate-50 via-gray-100 to-slate-200 py-16">
+    <section
+      id="properties"
+      className="bg-gradient-to-br from-slate-50 via-gray-100 to-slate-200 py-16"
+    >
       <div className="max-w-7xl mx-auto px-6">
         {/* Title */}
         <motion.h2
