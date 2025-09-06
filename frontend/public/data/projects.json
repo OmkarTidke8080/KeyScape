@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "name": "Aventis",
+    "location": "Tathawade, Pune",
+    "typology": "2.25 & 3.25 BHK",
+    "images": {
+      "hero": "/images/properties/prop1.jpg",
+      "gallery": [
+        "/images/propertyDetails/balcony.jpg",
+        "/images/propertyDetails/bathroom.jpg",
+        "/images/propertyDetails/Hall.jpg",
+        "/images/propertyDetails/bedroom.jpg",
+        "/images/propertyDetails/kitchen.jpg"
+      ]
+    },
+    "configurations": [
+      { "type": "2.25 BHK", "area": "850 Sq.ft", "price": "₹65 Lacs Onwards" },
+      { "type": "3.25 BHK", "area": "1250 Sq.ft", "price": "₹1.05 Cr Onwards" }
+    ],
+    "amenities": [
+      "Swimming Pool",
+      "Clubhouse",
+      "Yoga Deck",
+      "Children's Play Area",
+      "Gymnasium"
+    ],
+    "keyHighlights": [
+      "East-West facing apartments",
+      "20+ world-class amenities",
+      "Premium interiors & fittings"
+    ],
+    "floorPlans": {
+      "2.25 BHK": "/images/projects/aventis/floorplan-2bhk.jpg",
+      "3.25 BHK": "/images/projects/aventis/floorplan-3bhk.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sanctum",
+    "location": "Ravet, Pune",
+    "typology": "2 & 3 BHK",
+    "images": {
+      "hero": "/images/properties/prop2.jpg",
+      "gallery": [
+        "/images/projects/sanctum/gallery1.jpg",
+        "/images/projects/sanctum/gallery2.jpg"
+      ]
+    },
+    "configurations": [
+      { "type": "2 BHK", "area": "950 Sq.ft", "price": "₹80 Lacs Onwards" },
+      { "type": "3 BHK", "area": "1250 Sq.ft", "price": "₹1.2 Cr Onwards" }
+    ],
+    "amenities": [
+      "Jogging Track",
+      "Meditation Zone",
+      "Senior Citizen Plaza",
+      "Multipurpose Hall",
+      "Indoor Games"
+    ],
+    "keyHighlights": [
+      "Close to Hinjawadi IT Park",
+      "Premium quality finishes",
+      "Spacious balconies"
+    ],
+    "floorPlans": {
+      "2 BHK": "/images/projects/sanctum/floorplan-2bhk.jpg",
+      "3 BHK": "/images/projects/sanctum/floorplan-3bhk.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "GreenVille",
+    "location": "Baner, Pune",
+    "typology": "2, 3 & 4 BHK",
+    "images": {
+      "hero": "/images/properties/prop3.jpg",
+      "gallery": [
+        "/images/projects/greenville/gallery1.jpg",
+        "/images/projects/greenville/gallery2.jpg"
+      ]
+    },
+    "configurations": [
+      { "type": "2 BHK", "area": "900 Sq.ft", "price": "₹85 Lacs Onwards" },
+      { "type": "3 BHK", "area": "1300 Sq.ft", "price": "₹1.3 Cr Onwards" },
+      { "type": "4 BHK", "area": "1800 Sq.ft", "price": "₹1.9 Cr Onwards" }
+    ],
+    "amenities": [
+      "Infinity Pool",
+      "Sky Lounge",
+      "Open-Air Theater",
+      "Co-working Spaces",
+      "EV Charging Stations"
+    ],
+    "keyHighlights": [
+      "Baner skyline views",
+      "Sustainable architecture",
+      "Smart home automation"
+    ],
+    "floorPlans": {
+      "2 BHK": "/images/projects/greenville/floorplan-2bhk.jpg",
+      "3 BHK": "/images/projects/greenville/floorplan-3bhk.jpg",
+      "4 BHK": "/images/projects/greenville/floorplan-4bhk.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Skyline Heights",
+    "location": "Wakad, Pune",
+    "typology": "2 & 3 BHK",
+    "images": {
+      "hero": "/images/projects/skyline/hero.jpg",
+      "gallery": [
+        "/images/projects/skyline/gallery1.jpg",
+        "/images/projects/skyline/gallery2.jpg"
+      ]
+    },
+    "configurations": [
+      { "type": "2 BHK", "area": "980 Sq.ft", "price": "₹90 Lacs Onwards" },
+      { "type": "3 BHK", "area": "1400 Sq.ft", "price": "₹1.4 Cr Onwards" }
+    ],
+    "amenities": [
+      "Skydeck",
+      "Indoor Badminton Court",
+      "Library",
+      "Music Room",
+      "Pet Park"
+    ],
+    "keyHighlights": [
+      "Close to Mumbai-Pune Expressway",
+      "Spectacular skyline views",
+      "Pet-friendly community"
+    ],
+    "floorPlans": {
+      "2 BHK": "/images/projects/skyline/floorplan-2bhk.jpg",
+      "3 BHK": "/images/projects/skyline/floorplan-3bhk.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Urban Nest",
+    "location": "Kharadi, Pune",
+    "typology": "1, 2 & 3 BHK",
+    "price": "₹1.05 Cr Onwards",
+    "images": {
+      "hero": "/images/projects/urbannest/hero.jpg",
+      "gallery": [
+        "/images/projects/urbannest/gallery1.jpg",
+        "/images/projects/urbannest/gallery2.jpg"
+      ]
+    },
+    "configurations": [
+      { "type": "1 BHK", "area": "650 Sq.ft", "price": "₹45 Lacs Onwards" },
+      { "type": "2 BHK", "area": "950 Sq.ft", "price": "₹75 Lacs Onwards" },
+      { "type": "3 BHK", "area": "1350 Sq.ft", "price": "₹1.25 Cr Onwards" }
+    ],
+    "amenities": [
+      "Kids Pool",
+      "Gym",
+      "Banquet Hall",
+      "Cafeteria",
+      "Indoor Sports Arena"
+    ],
+    "keyHighlights": [
+      "Walkable to IT hubs",
+      "Affordable luxury",
+      "Gated community with 24x7 security"
+    ],
+    "floorPlans": {
+      "1 BHK": "/images/projects/urbannest/floorplan-1bhk.jpg",
+      "2 BHK": "/images/projects/urbannest/floorplan-2bhk.jpg",
+      "3 BHK": "/images/projects/urbannest/floorplan-3bhk.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Lakefront Residences",
+    "location": "Hinjewadi Phase 1, Pune",
+    "typology": "2 & 3 BHK",
+    "images": {
+      "hero": "/images/projects/lakefront/hero.jpg",
+      "gallery": [
+        "/images/projects/lakefront/gallery1.jpg",
+        "/images/projects/lakefront/gallery2.jpg"
+      ]
+    },
+    "configurations": [
+      { "type": "2 BHK", "area": "920 Sq.ft", "price": "₹78 Lacs Onwards" },
+      { "type": "3 BHK", "area": "1280 Sq.ft", "price": "₹1.15 Cr Onwards" }
+    ],
+    "amenities": [
+      "Lakeview Promenade",
+      "Cycling Track",
+      "Mini Theater",
+      "Basketball Court",
+      "Spa & Wellness Center"
+    ],
+    "keyHighlights": [
+      "Lake-facing apartments",
+      "Proximity to Hinjawadi IT Park",
+      "Resort-style clubhouse"
+    ],
+    "floorPlans": {
+      "2 BHK": "/images/projects/lakefront/floorplan-2bhk.jpg",
+      "3 BHK": "/images/projects/lakefront/floorplan-3bhk.jpg"
+    }
+  }
+]

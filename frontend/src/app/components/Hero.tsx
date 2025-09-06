@@ -22,16 +22,16 @@ export default function Hero() {
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
-          className={`text-white text-4xl md:text-6xl font-bold leading-tight mb-6 drop-shadow-lg ${lora.className}`}
+          className={`text-white  uppercase tracking-widest text-4xl md:text-6xl font-semibold leading-tight mb-6 drop-shadow-lg ${lora.className}`}
         >
-          <span className="text-amber-400">Your Key</span> to Smarter Living
+          <span className="text-amber-400 ">Your Key</span> to Smarter Living
         </motion.h1>
 
         <motion.p
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.3 }}
-          className="text-gray-200 text-lg md:text-xl max-w-3xl mb-8"
+          className="text-gray-200 text-lg font-semibold uppercase tracking-widest  md:text-xl max-w-3xl mb-8"
         >
           Helping you find the perfect home where comfort, lifestyle, and
           investment meet together.
